@@ -1,0 +1,25 @@
+id;ATRIBUTO;DESCRIPCION
+1;VIN (1-10);N£mero de Identificaci¢n del Veh¡culo (VIN), que identifican de manera £nica a cada veh¡culo
+2;County;El condado donde est  registrado el veh¡culo.
+3;City;Ciudad donde est  registrado el veh¡culo.
+4;State;Estado donde est  registrado el veh¡culo
+5;Postal Code;C¢digo postal de la ubicaci¢n del veh¡culo
+6;Model Year;A¤o de fabricaci¢n del veh¡culo
+7;Make;Marca del veh¡culo (por ejemplo, Tesla, Nissan, BMW)
+8;Model:;Modelo espec¡fico del veh¡culo (por ejemplo, Model 3, LEAF, i3).
+9;Electric Vehicle Type;"Tipo de veh¡culo el‚ctrico. Puede ser:
+
+Battery Electric Vehicle (BEV): Veh¡culo totalmente el‚ctrico.
+Plug-in Hybrid Electric Vehicle (PHEV): Veh¡culo h¡brido enchufable."
+10;Clean Alternative Fuel Vehicle (CAFV) Eligibility;"Indica si el veh¡culo es elegible para ser considerado un Veh¡culo de Combustible Alternativo Limpio. Los valores posibles son:
+
+Clean Alternative Fuel Vehicle Eligible: El veh¡culo es elegible.
+Not eligible due to low battery range: El veh¡culo no es elegible debido a un rango de bater¡a insuficiente.
+Eligibility unknown as battery range has not been researched: La elegibilidad no se ha determinado."
+11;Electric Range;Rango el‚ctrico del veh¡culo, es decir, la distancia que puede recorrer utilizando solo la bater¡a (en millas).
+12;Base MSRP;Precio de Venta Sugerido por el Fabricante (MSRP) base del veh¡culo.
+13;Legislative District;Distrito legislativo donde est  registrado el veh¡culo.
+14;DOL Vehicle ID;Identificador £nico del veh¡culo asignado por el Departamento de Licencias (DOL).
+15;Vehicle Location;Ubicaci¢n geogr fica del veh¡culo, expresada como un punto en un sistema de coordenadas (latitud y longitud).
+16;Electric Utility:;Compa¤¡a el‚ctrica que provee servicio en la ubicaci¢n del veh¡culo
+17;2020 Census Tract;Tracto censal donde est  registrado el veh¡culo, seg£n el censo de 2020
